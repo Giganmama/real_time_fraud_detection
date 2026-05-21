@@ -1,4 +1,4 @@
-# ️ Real-Time Fraud Detection | Kafka + Spark Structured Streaming
+# ️Real-Time Fraud Detection | Kafka + Spark Structured Streaming
 
 Потоковый пайплайн для мониторинга транзакций в реальном времени. Обнаруживает аномалии (мошенничество) с использованием оконных агрегаций Spark и брокера сообщений Kafka.
 
